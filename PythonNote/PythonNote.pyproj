@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="dsum.py" />
     <Compile Include="HelloWorld.py">
       <SubType>Code</SubType>
     </Compile>
